@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: sgtespulgar/gatsby-personal-starter-blog
+  name: sgtespulgar
+  repo: sgtespulgar/personal-blog
 
 media_folder: content/assets
 public_folder: ../assets
